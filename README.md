@@ -15,3 +15,14 @@ icongeisha [original image]
 | :--- | ------                    |
 | -h   | print this.               |
 | -v   | print icongeisha version. |
+
+## Watch:
+
+(2022.04.21追加)  
+Apple Watch アプリケーション用に同様の機能を持つスクリプトを用意しました。
+
+```
+icongeisha_w [original image]
+```
+
+使い方は同じです。
