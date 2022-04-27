@@ -26,3 +26,14 @@ icongeisha_w [original image]
 ```
 
 使い方は同じです。
+
+## macOS:
+
+(2022.04.27追加)  
+macOS アプリケーション用に同様の機能を持つスクリプトを用意しました。
+
+```
+icongeisha_m [original image]
+```
+
+使い方は同じです。
